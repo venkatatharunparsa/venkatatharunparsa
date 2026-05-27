@@ -1,44 +1,102 @@
 ﻿<div align="center">
 
-```
- ██████╗ ██████╗ ███████╗███╗   ██╗████████╗    ████████╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗
-██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝       ██╔══╝██║  ██║██╔══██╗██╔══██╗██║   ██║████╗  ██║
-███████║██║  ███╗█████╗  ██╔██╗ ██║   ██║           ██║   ███████║███████║██████╔╝██║   ██║██╔██╗ ██║
-██╔══██║██║   ██║██╔══╝  ██║╚██╗██║   ██║           ██║   ██╔══██║██╔══██║██╔══██╗██║   ██║██║╚██╗██║
-██║  ██║╚██████╔╝███████╗██║ ╚████║   ██║           ██║   ██║  ██║██║  ██║██║  ██║╚██████╔╝██║ ╚████║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝           ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-```
+# Venkata Tharun Parsa
 
-### `[ Agentic AI Engineer ]` · `[ Multi-Agent Systems ]` · `[ RAG Pipelines ]` · `[ MLOps & Cloud ]`
+### Agentic AI Engineer · Multi-Agent Systems · RAG · Cloud & MLOps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkata_Tharun_Parsa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-tharun-parsa-98850632a/)
-[![GitHub](https://img.shields.io/badge/GitHub-venkatatharunparsa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/venkatatharunparsa)
-[![Email](https://img.shields.io/badge/Email-parsavenkatatharun@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:parsavenkatatharun@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_9573528179-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919573528179)
+*Designing production-grade AI systems that orchestrate, reason, and act—with traceability built in.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-tharun-parsa-98850632a/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsavenkatatharun@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-venkatatharunparsa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatatharunparsa)
+
+**Hyderabad, India** · B.Tech CSE (RGUKT) · Expected 2027 · Open to internships & AI engineering roles
 
 </div>
 
 ---
 
-```python
-class AgenticAIEngineer:
-    name    = "Venkata Tharun Parsa"
-    role    = "Agentic AI Engineer"
-    focus   = ["Multi-Agent Systems", "RAG Pipelines", "Vision-Language Models", "MLOps"]
-    motto   = "Don't just predict — orchestrate, reason, and act."
-    
-    def what_i_build(self):
-        return [
-            "Production-grade autonomous agent systems",
-            "End-to-end RAG pipelines with self-improving knowledge bases",
-            "Cloud-native AI deployment & monitoring platforms",
-            "Multimodal vision pipelines with character & scene consistency",
-        ]
-```
+## About
+
+**Agentic AI Engineer** focused on **multi-agent orchestration**, **retrieval-augmented generation (RAG)**, and **cloud-native MLOps**. I architect end-to-end systems that combine LLMs, multimodal models, and autonomous agents for compliance automation, infrastructure management, and creative production workflows.
+
+| Focus area | What I deliver |
+| :--- | :--- |
+| **Multi-agent systems** | Master planners, specialized agents, human-in-the-loop gates |
+| **RAG pipelines** | Self-improving knowledge bases, vector retrieval, audit-ready outputs |
+| **Production AI** | Containerized deploys, CI/CD, observability, failure recovery loops |
+| **Multimodal AI** | Vision-language pipelines with consistency and validation |
 
 ---
 
-## ⬡ Agent Architecture Mindset
+## Experience
+
+### Azure Cloud Intern · Microsoft Elevate Program
+**Microsoft India**
+
+- Deployed and managed cloud infrastructure—VMs, storage, and networking on Azure
+- Applied monitoring and scalability practices for production AI workloads
+- Supported AI deployment workflows using cloud and MLOps principles
+
+---
+
+## Selected Work
+
+### [InfraGenie](https://github.com/venkatatharunparsa) — Agentic Cloud Infrastructure Platform
+`Python` · `FastAPI` · `Gemini` · `ChromaDB` · `RAG` · `Terraform` · `AWS` · `Docker` · `React`
+
+Production **5-agent system** (Orchestrator, Planner, Executor, Monitor, Security) that provisions and manages AWS infrastructure from natural language.
+
+- **4-tier intelligence router:** rules → RAG → LLM reasoning → human-in-the-loop for irreversible actions
+- **Self-improving RAG** across 6 ChromaDB collections (deploy history, incidents, AWS best practices)
+- **IaC governance:** Terraform + tfsec + Checkov + Infracost before every deploy
+- Real-time **WebSocket** dashboard with autonomous self-correction loops
+
+---
+
+### [TaxSetu](https://github.com/venkatatharunparsa) — Autonomous Multi-Agent GST Compliance Platform
+`LangChain` · `LangGraph` · `Gemini` · `FAISS` · `FastAPI` · `AWS`
+
+End-to-end GST automation for **7.34 crore MSMEs**, with multilingual support.
+
+- **Master Planner** orchestrating **5 specialized agents** for zero-touch compliance workflows
+- OCR + tax computation + multi-step reasoning with **explainable, audit-ready** outputs
+- Structured decision pipelines designed for regulatory traceability
+
+---
+
+### [VisionSync](https://github.com/venkatatharunparsa) — Character & Scene Planning for Film Pre-Viz
+`SDXL` · `LoRA` · `RAG` · `Gemini Vision` · `LangChain` · `FAISS`
+
+Multimodal pipeline for film pre-visualization with consistency enforcement.
+
+- **95% character consistency** across 100+ frames via custom LoRA fine-tuning
+- **6-agent system** for scene planning and production risk prediction
+- **90%** faster storyboard generation · **80%** lower API usage
+
+---
+
+### [NINA](https://github.com/venkatatharunparsa) — Voice-Driven Browser Automation Agent
+`Playwright` · `Python` · `NLP` · `FastAPI`
+
+Voice-to-action automation with dynamic DOM understanding—no manual site configuration.
+
+- Custom **Field Registry** for plug-and-play SDK integration
+- Multi-step task execution with robust session recovery
+
+---
+
+### [AstraDeploy](https://github.com/venkatatharunparsa) — AI Deployment & Monitoring Platform
+`AWS` · `Docker` · `Jenkins` · `Grafana` · `CloudWatch` · `CI/CD`
+
+Cloud-native MLOps platform for deploying and operating AI systems at scale.
+
+- Automated CI/CD with containerized, auto-scalable infrastructure
+- Real-time observability via Grafana and CloudWatch
+
+---
+
+## How I Design Agent Systems
 
 ```
 Input (NL / Docs / Voice)
@@ -52,156 +110,81 @@ Input (NL / Docs / Voice)
         ▼                                   ▼
 ┌──────────────────────────────┐   ┌──────────────────┐
 │  Specialized Agents          │   │  Human-in-the-Loop│
-│  (Plan / Execute / Monitor / │   │  (Irreversible    │
-│   Validate / Secure)         │   │   Action Gates)   │
+│  Plan · Execute · Monitor ·  │   │  Irreversible     │
+│  Validate · Secure           │   │  Action Gates     │
 └──────────────────────────────┘   └──────────────────┘
         │
         ▼
 Structured, Auditable, Explainable Output
 ```
 
-I design AI systems where every decision is **traceable**, every action is **intentional**, and every failure has a **self-correction loop**.
+Every decision is **traceable**, every action is **intentional**, and every failure has a **self-correction path**.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### `TaxSetu` — Autonomous Multi-Agent GST Compliance Platform
-> **Stack:** LangChain · LangGraph · Gemini API · FAISS · FastAPI · AWS
-
-- Architected a **Master Planner** orchestrating **5 specialized AI agents** for fully autonomous GST workflows
-- Engineered structured decision pipelines delivering explainable, audit-ready AI outputs
-- Integrated **OCR + tax computation + multi-step reasoning** for zero-touch end-to-end automation
-- Designed for **7.34 crore MSMEs** with multilingual accessibility — reducing compliance complexity dramatically
-
----
-
-### `InfraGenie` — Agentic Cloud Infrastructure Platform
-> **Stack:** Python · FastAPI · Gemini API · ChromaDB · RAG · Terraform · AWS · Docker · React
-
-- Built a production-grade **5-agent system** (Orchestrator, Planner, Executor, Monitor, Security) that provisions, monitors, and autonomously manages AWS infrastructure from plain English
-- Engineered a **4-tier intelligence router** — hardcoded rules → RAG lookup → Gemini reasoning → human-in-the-loop gates
-- Built a **self-improving RAG pipeline** with ChromaDB across 6 knowledge collections: deployment history, incident logs, AWS best practices, and more
-- Integrated **Terraform CLI + tfsec + Checkov + Infracost** for automated IaC generation, security scanning, and cost governance before every deploy
-- Real-time **WebSocket streaming** to a React dashboard with autonomous self-correction loops
+| Category | Technologies |
+| :--- | :--- |
+| **Agents & orchestration** | LangChain, LangGraph, CrewAI, AutoGen, prompt engineering |
+| **RAG & retrieval** | FAISS, ChromaDB, embeddings, semantic search, vector retrieval |
+| **Models & vision** | Gemini, multimodal LLMs, CLIP, BLIP, LoRA fine-tuning, SDXL |
+| **ML & NLP** | Intent classification, semantic search, structured outputs |
+| **Backend & APIs** | Python, Java, FastAPI, Linux |
+| **Cloud & MLOps** | AWS (EC2, S3, IAM, CloudWatch), Azure (VM, VNet), Docker, Jenkins, CI/CD |
 
 ---
 
-### `VisionSync` — Intelligent Character & Scene Planning System
-> **Stack:** Stability AI SDXL · LoRA Fine-tuning · RAG · Gemini Vision · LangChain · FAISS
+## Education
 
-- Built a **multimodal AI pipeline** for film pre-visualization workflows
-- Achieved **95% character consistency** across 100+ frames using custom LoRA fine-tuning
-- Implemented **RAG-based validation** for visual consistency enforcement
-- Designed a **6-agent system** for scene planning and production risk prediction
-- **90% reduction** in storyboard generation time · **80% reduction** in API usage
-
----
-
-### `NINA` — Voice-Driven AI Browser Automation Agent
-> **Stack:** Playwright · Python · NLP · FastAPI · DOM Parsing
-
-- Built a **voice-to-action pipeline** enabling real-time browser automation from natural language
-- Designed **dynamic DOM understanding** via a custom Field Registry system — zero manual configuration
-- Plug-and-play **SDK integration** with multi-step task execution and robust session recovery
-
----
-
-### `AstraDeploy` — Scalable AI Deployment & Monitoring Platform
-> **Stack:** AWS · Docker · Jenkins · Grafana · CI/CD · CloudWatch
-
-- Built a **cloud-native MLOps platform** for deploying AI systems at scale
-- Automated **CI/CD pipelines** with containerized, auto-scalable infrastructure
-- Integrated **real-time observability** via Grafana + CloudWatch dashboards
-
----
-
-## 🛠️ Tech Stack
-
-**Agents & Orchestration**
-```
-LangChain · LangGraph · CrewAI · AutoGen
-```
-
-**Models & Vision**
-```
-CLIP · BLIP · LoRA Fine-tuning · Vision-Language Models · Gemini · Multimodal LLMs
-```
-
-**ML & NLP**
-```
-Semantic Search · Intent Classification · Embeddings · Vector Retrieval · FAISS · ChromaDB
-```
-
-**Cloud & MLOps**
-```
-AWS (EC2, S3, IAM, CloudWatch) · Azure (VM, VNet) · Docker · Jenkins · CI/CD · FastAPI · Linux
-```
-
-**Languages**
-```
-Python · Java
-```
-
----
-
-## 🏆 Achievements
-
-| Event | Result | Year |
-|---|---|---|
-| 🥇 Smart India Hackathon (Internal) — RGUKT Basar | **Winner** | 2025 |
-| 🎬 Cine AI Hackathon — T-Works Hyderabad | **Top 6 Finalist** | Jan 2026 |
-| 🇮🇳 Build for India Hackathon — Kerala Startup Mission | Participant | Feb 2026 |
-| 💻 Tutedude Hackathon | Participant | 2025 |
-
----
-
-## 📜 Certifications
-
-- 🎓 **IBM RAG and Agentic AI Professional Certificate**
-- 🎓 **IBM DevOps and Software Engineering Professional Certificate**
-- ☁️ **Microsoft Elevate Program — Azure Cloud Intern**
-
----
-
-## 📚 Education
-
-**B.Tech in Computer Science and Engineering** · CGPA: 8.5  
+**B.Tech, Computer Science and Engineering** — CGPA **8.5**  
 Rajiv Gandhi University of Knowledge Technologies (RGUKT), Basar · *Expected 2027*
 
 ---
 
-## 📊 GitHub Stats
+## Achievements
+
+| Event | Result | When |
+| :--- | :--- | :--- |
+| Smart India Hackathon (Internal), RGUKT Basar | **Winner** | 2025 |
+| Cine AI Hackathon, T-Works Hyderabad | **Top 6 Finalist** | Jan 2026 |
+| Build for India Hackathon, Kerala Startup Mission | Participant | Feb 2026 |
+| Tutedude Hackathon | Participant | 2025 |
+
+---
+
+## Certifications
+
+- **IBM** — RAG and Agentic AI Professional Certificate
+- **IBM** — DevOps and Software Engineering Professional Certificate
+- **Microsoft** — Elevate Program (Azure Cloud Intern)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-![Tharun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatatharunparsa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatatharunparsa&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatatharunparsa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=venkatatharunparsa&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatatharunparsa&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Currently Building
+## Currently Exploring
 
-```
-▶ Pushing boundaries of autonomous agent reasoning and self-correction loops
-▶ Exploring multi-modal LLMs for real-world automation pipelines
-▶ Deepening expertise in production RAG system architecture & evaluation
-```
+- Autonomous agent reasoning with stronger self-correction and evaluation loops
+- Multimodal LLMs for real-world automation pipelines
+- Production RAG architecture, retrieval quality, and offline evaluation
 
 ---
 
 <div align="center">
 
-*"Autonomous agents don't replace human judgment — they amplify it at scale."*
+**Interested in collaborating or hiring?** Reach out on [LinkedIn](https://www.linkedin.com/in/venkata-tharun-parsa-98850632a/) or [email](mailto:parsavenkatatharun@gmail.com).
 
-**— Venkata Tharun Parsa**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=venkatatharunparsa&color=blueviolet&style=flat-square)](https://github.com/venkatatharunparsa)
+[![Profile Views](https://komarev.com/ghpvc/?username=venkatatharunparsa&color=0e7490&style=flat-square)](https://github.com/venkatatharunparsa)
 
 </div>
-
